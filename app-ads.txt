@@ -1,1 +1,5 @@
+# Google AdMob - Old Organization Account (For existing app installs)
 google.com, pub-8958443178419388, DIRECT, f08c47fec0942fa0
+
+# Google AdMob - New Individual Account (For new app updates)
+google.com, pub-4744160142753332, DIRECT, f08c47fec0942fa0
